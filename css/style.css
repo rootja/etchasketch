@@ -1,0 +1,23 @@
+#container {
+    width: 960px;
+    height: 960px;
+}
+
+.row {
+    width: auto;
+    height: 20px;
+}
+.square {
+    width: 20px;
+    height: 20px;
+    margin: 0px;
+    outline: 1px solid;
+    display: inline-block;
+    float: left;
+    background-color:white;
+}
+
+#button{
+  background-color:#FF5500;
+  width:35px;
+}
